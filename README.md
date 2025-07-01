@@ -22,7 +22,7 @@ You have two options for running ytdlp-project-manager:
 - Go to the Releases tab.
 - Download the latest ytdlp-project-manager.exe file.
 - Run the executable — no need to install Python or dependencies.
-- ⚠️ Note: If you want to install `mov` files you still need to have ffmpeg installed and available in your system PATH for video/audio processing.
+- ⚠️ Note: You still need to have ffmpeg installed and available in your system PATH for video/audio processing.
 
 Install FFmpeg via Winget (Windows 10+)
 ```
